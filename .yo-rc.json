@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Suivi",
+    "packageName": "org.sid",
+    "packageFolder": "org/sid",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "MGVlZWQ3YjE1ZDVmN2RiMzA3MmQ0ODRkZmQxYTA5YmY5MmRlNDAxNjI0Mjg4MWI4NzZiMzMyNTU0ZTVhODU3ZWZlMzg4MTcyNTE1NjFiY2RkMzUxOTNkMDRmZjJkYzQyNGFiY2FkMmM4NjAxNTQzOGI5NWYzZjdjZWMxZDZlMGE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "nisrineRH",
+  "repository-name": "Suivi"
+}
